@@ -5,7 +5,7 @@
 | Plataforma | Links |
 | ------ | ------ |
 | GitHub | https://github.com/CaritoDasilva/mercado-libre-test-be |
-| Heroku Deploy | https://pharmacy-searcher-be.herokuapp.com/api/communes/7 |
+| Heroku Deploy | https://mercado-libre-be.herokuapp.com/ |
 | Portafolio | https://www.caritodasilva.work/ |
 
 
